@@ -168,7 +168,7 @@
             }
         },
         "3-ba": {
-            "token": "3-ba-your-token"
+            "token": "token"
         },
         "terminal": {
             "copyButtons": false,
