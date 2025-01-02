@@ -1,6 +1,6 @@
 {
     "title": "TestGitBook2",
-    "author": "gendloop",
+    "author": "gendlooptester",
     "description": "DESC",
     "gitbook": ">=3.2.3",
     "language": "zh-hans",
@@ -10,7 +10,7 @@
     },
     "links": {
         "sidebar": {
-            "GitHub": "https://github.com/gendloop/TestGitBook2"
+            "GitHub": "https://github.com/gendlooptester/TestGitBook2"
         }
     },
     "pdf": {
@@ -65,7 +65,7 @@
     "pluginsConfig": {
         "sidebar-style": {
             "title": "TestGitBook2",
-            "author": "gendloop"
+            "author": "gendlooptester"
         },
         "sharing": {
             "douban": false,
@@ -117,20 +117,20 @@
             "skipFirstH1": true
         },
         "github": {
-            "url": "https://github.com/gendloop/TestGitBook2"
+            "url": "https://github.com/gendlooptester/TestGitBook2"
         },
         "github-buttons": {
-            "repo": "gendloop/TestGitBook2",
+            "repo": "gendlooptester/TestGitBook2",
             "types": [
             ],
             "size": "small"
         },
         "edit-link": {
-            "base": "https://github.com/gendloop/TestGitBook2/edit/main",
+            "base": "https://github.com/gendlooptester/TestGitBook2/edit/main",
             "label": "Edit"
         },
         "disqus": {
-            "shortName": "gendloop"
+            "shortName": "gendlooptester"
         },
         "prism": {
             "css": [
@@ -143,7 +143,7 @@
             "edit": true
         },
         "tbfed-pagefooter": {
-            "copyright": "Copyright &copy gendloop 2024",
+            "copyright": "Copyright &copy gendlooptester 2024",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -156,7 +156,7 @@
             "wechatText": "微信打赏"
         },
         "sitemap-general": {
-            "prefix": "https://gendloop.github.io/TestGitBook2/"
+            "prefix": "https://gendlooptester.github.io/TestGitBook2/"
         },
         "favicon": {
             "shortcut": "assets/images/favicon.ico",
@@ -178,11 +178,11 @@
         "rss": {
             "title": "TestGitBook2",
             "description": "DESC",
-            "author": "gendloop",
-            "feed_url": "https://gendloop.github.io/TestGitBook2/rss",
-            "site_url": "https://gendloop.github.io/TestGitBook2",
-            "managingEditor": "gendloop@163.com",
-            "webMaster": "gendloop@163.com",
+            "author": "gendlooptester",
+            "feed_url": "https://gendlooptester.github.io/TestGitBook2/rss",
+            "site_url": "https://gendlooptester.github.io/TestGitBook2",
+            "managingEditor": "gendlooptester@163.com",
+            "webMaster": "gendlooptester@163.com",
             "categories": [
                 "gitbook",
                 "TestGitBook2"
